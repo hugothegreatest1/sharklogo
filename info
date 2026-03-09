@@ -1,0 +1,12 @@
+{
+  "pub_key": "BLS_VER_KEY~uGuiQJh-J42AcJKK9FZ5U__u655iflnw9Q148oRdYiEmQpbtx4kXkhC3sdSY_DonlPbXGJB1InI7MkcpLzsjEZ7_wZjl2-FboDJww7cpkwmrbpL65wiWqJqg5yU5a_cbWe6fmknMBXIiPaELiVN5xTnVg0s0OugEaYhM0HZS5Jwp",
+  "name": "Stake Shark",
+  "description": "Industry Leader. Trusted by 150,000 delegators since 2019. Over $200 million in staked assets across 20+ networks.",
+  "company_name": "Stake Shark",
+  "company_website": "https://www.stakeshark.io/",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": { "@1x": "https://cdn.prod.website-files.com/65d879ab476c24fd4cc67589/65e628d86fa2d13b75a8bb20_Icon.svg", "@2x": "https://cdn.prod.website-files.com/65d879ab476c24fd4cc67589/65e628d86fa2d13b75a8bb20_Icon.svg", "@3x": "https://cdn.prod.website-files.com/65d879ab476c24fd4cc67589/65e628d86fa2d13b75a8bb20_Icon.svg" },
+    "24x24": { "@1x": "https://cdn.prod.website-files.com/65d879ab476c24fd4cc67589/65e628d86fa2d13b75a8bb20_Icon.svg", "@2x": "https://cdn.prod.website-files.com/65d879ab476c24fd4cc67589/65e628d86fa2d13b75a8bb20_Icon.svg", "@3x": "https://cdn.prod.website-files.com/65d879ab476c24fd4cc67589/65e628d86fa2d13b75a8bb20_Icon.svg" }
+  }
+}
